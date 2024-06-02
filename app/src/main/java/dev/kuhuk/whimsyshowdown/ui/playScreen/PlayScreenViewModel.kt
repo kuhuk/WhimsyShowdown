@@ -7,9 +7,6 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.ui.graphics.Color
 import androidx.lifecycle.ViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
-import dev.kuhuk.whimsyshowdown.MainViewModel
-import dev.kuhuk.whimsyshowdown.utils.amaranthPink
-import dev.kuhuk.whimsyshowdown.utils.champagnePink
 import dev.kuhuk.whimsyshowdown.utils.darkPurple
 import dev.kuhuk.whimsyshowdown.utils.indianRed
 import dev.kuhuk.whimsyshowdown.utils.mintGreen
