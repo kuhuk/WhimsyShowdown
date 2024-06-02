@@ -1,4 +1,4 @@
-package dev.kuhuk.whimsyshowdown
+package dev.kuhuk.whimsyshowdown.data
 
 data class ScoreCard(
     val userScore: Int,

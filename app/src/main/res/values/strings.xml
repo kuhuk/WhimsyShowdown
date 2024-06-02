@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Whimsy Showdown</string>
+    <string name="rock_emoji">🪨</string>
+    <string name="paper_emoji">📜</string>
+    <string name="scissor_emoji">✂️</string>
+    <string name="bow_emoji">🎀</string>
 </resources>
