@@ -6,3 +6,4 @@ Tech stack used:
 - Kotlin DSL
 - Lifecycle ViewModel (MVVM)
 - Hilt Dependency Injection
+- Coroutines
